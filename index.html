@@ -2,22 +2,18 @@
 layout: default
 ---
 
-<div class="home">
+<div class='welcome'>
+  <div>
+    <img src='images/matt_oval.jpg'/>
+  </div>
+  <strong>it's me!</strong>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+  <ul>
+    <li class='doc'>
+      <a href='https://www.linkedin.com/in/composition9'>LinkedIn</a>
+    </li>
+    <li class='doc'>
+      <a href='https://github.com/composit'>GitHub</a>
+    </li>
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
