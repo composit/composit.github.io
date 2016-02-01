@@ -5,7 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Professional Develeper. Skills include Ruby, Rails, Go, Backbone, Angular, Ember React. Interests include: Elixir, Phoenix, Clojure, Scala
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://composition9.com" # the base hostname & protocol for your site
-twitter_username: mr_parasites
 github_username:  composit
 phone_number: 970.430.6717
 
