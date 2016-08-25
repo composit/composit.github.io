@@ -1,6 +1,6 @@
 # Site settings
 title: Matt Rose
-email: matt@scoutapp.com
+email: matt@composition9.com
 description: > # this means to ignore newlines until "baseurl:"
   Professional Develeper. Skills include Ruby, Rails, Go, Backbone, Angular, Ember React. Interests include: Elixir, Phoenix, Clojure, Scala
 baseurl: "" # the subpath of your site, e.g. /blog/
