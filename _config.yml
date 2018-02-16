@@ -2,7 +2,7 @@
 title: Matt Rose
 email: matt@composition9.com
 description: > # this means to ignore newlines until "baseurl:"
-  Professional Develeper. Skills include Golang, Ruby, Rails, Backbone, Angular, Ember, React. Interests include: Elixir, Phoenix, Clojure, Scala
+  Professional Developer. Skills include Golang, Ruby, Rails, Backbone, Angular, Ember, React. Interests include: Elixir, Phoenix, Clojure, Scala
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://composition9.com" # the base hostname & protocol for your site
 github_username:  composit
